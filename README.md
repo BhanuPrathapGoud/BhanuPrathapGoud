@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bhanuprathapgoud@gmail.com**
 
-- 📄 Know about my experiences [https://bhanuprathapgoud-web.netlify.app/bhanuprathap_goud_resume_10-08-2022-09-12-19](https://bhanuprathapgoud-web.netlify.app/bhanuprathap_goud_resume_10-08-2022-09-12-19)
+- 📄 Know about my experiences [https://bhanuprathapgoud-web.netlify.app/bhanuprathap_goud_resume_10-08-2022-09-12-19](https://bhanuprathapgoud.netlify.app/bhanuprathap_goud_resume_10-08-2022-09-12-19)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
