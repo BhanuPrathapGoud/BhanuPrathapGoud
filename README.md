@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oX6LHGSJLROJnHsuHo4eH6N_IThv2F_9/view?usp=sharing](https://drive.google.com/file/d/1oX6LHGSJLROJnHsuHo4eH6N_IThv2F_9/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhanuprathap-goud-4409641b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhanuprathap-goud-4409641b8/" height="30" width="40" /></a>
 </p>
