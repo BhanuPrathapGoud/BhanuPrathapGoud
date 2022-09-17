@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Java, spring boot,MySQL,HTML,CSS,Javascript**
 
-- 👨‍💻 All of my projects are available at [https://bhanuprathapgoud-web.netlify.app/](https://bhanuprathapgoud-web.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bhanuprathapgoud.netlify.app/](https://bhanuprathapgoud.netlify.app/)
 
 - 💬 Ask me about **Java, spring boot,MySQL,HTML,CSS,Javascript**
 
 - 📫 How to reach me **bhanuprathapgoud@gmail.com**
 
-- 📄 Know about my experiences [https://bhanuprathapgoud-web.netlify.app/bhanuprathap_goud_resume_10-08-2022-09-12-19](https://bhanuprathapgoud.netlify.app/bhanuprathap_goud_resume_10-08-2022-09-12-19)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oX6LHGSJLROJnHsuHo4eH6N_IThv2F_9/view?usp=sharing](https://drive.google.com/file/d/1oX6LHGSJLROJnHsuHo4eH6N_IThv2F_9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
