@@ -37,5 +37,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhanuprathapgoud" alt="bhanuprathapgoud" /></a> </p>
 
+[![Bhanuprathapgoud's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BhanuPrathapGoud&theme=tokyonight)](https://git.io/praveenscience)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Bhanuprathap Goud"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Bhanuprathap Goud" /></a></p>
