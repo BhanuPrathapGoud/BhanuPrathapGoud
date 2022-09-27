@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bhanuprathap-goud-4409641b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhanuprathap-goud-4409641b8/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhanuprathap-goud-4409641b8/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhanuprathap-goud-4409641b8/" height="30" width="40" /></a>
 </p>
 <img width="50%" align="right" alt="Github" src="https://i.pinimg.com/originals/fd/a7/c0/fda7c018db9a09ff0ed234957e9b25b9.gif" />
 
