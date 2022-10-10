@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bhanuprathapgoud@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oX6LHGSJLROJnHsuHo4eH6N_IThv2F_9/view?usp=sharing](https://drive.google.com/file/d/1oX6LHGSJLROJnHsuHo4eH6N_IThv2F_9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oX6LHGSJLROJnHsuHo4eH6N_IThv2F_9/view?usp=sharing)
 
 <h3 align="left">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
