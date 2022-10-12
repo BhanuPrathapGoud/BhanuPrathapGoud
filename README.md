@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, spring boot,MySQL,HTML,CSS,Javascript**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://bhanuprathapgoud-porfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://bhanuprathapgoud-portfolio.netlify.app/)
 
 - 💬 Ask me about **Java, spring boot,MySQL,HTML,CSS,Javascript**
 
